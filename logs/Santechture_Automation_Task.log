@@ -1,0 +1,18 @@
+2025-09-10 21:47:34 [main] INFO  - === SUITE STARTED: OrangeHRM Suite ===
+2025-09-10 21:47:38 [main] INFO  - === TEST CLASS STARTED: GUI.UserManagementTest ===
+2025-09-10 21:47:38 [main] INFO  - >>> STARTING Test Method: GUI.UserManagementTest.testAddAndDeleteUser
+2025-09-10 21:47:54 [main] INFO  - >>> PASSED Test Method: GUI.UserManagementTest.testAddAndDeleteUser
+2025-09-10 21:47:55 [main] INFO  - === TEST CLASS FINISHED: GUI.UserManagementTest ===
+2025-09-10 21:47:55 [main] INFO  - === TEST CLASS STARTED: API.CandidateApiE2ETests ===
+2025-09-10 21:47:55 [main] INFO  - >>> STARTING Test Method: API.CandidateApiE2ETests.addCandidate
+2025-09-10 21:48:04 [main] INFO  - >>> PASSED Test Method: API.CandidateApiE2ETests.addCandidate
+2025-09-10 21:48:04 [main] INFO  - >>> STARTING Test Method: API.CandidateApiE2ETests.addAttachment
+2025-09-10 21:48:05 [main] INFO  - >>> PASSED Test Method: API.CandidateApiE2ETests.addAttachment
+2025-09-10 21:48:05 [main] INFO  - >>> STARTING Test Method: API.CandidateApiE2ETests.deleteCandidate
+2025-09-10 21:48:05 [main] INFO  - >>> PASSED Test Method: API.CandidateApiE2ETests.deleteCandidate
+2025-09-10 21:48:06 [main] INFO  - === SUITE FINISHED: OrangeHRM Suite ===
+2025-09-10 21:48:06 [main] INFO  - Generating Allure Report...
+2025-09-10 21:48:10 [main] INFO  - Deleting Allure Results Folder...
+2025-09-10 21:48:10 [main] INFO  - Opening Allure Report...
+2025-09-10 21:48:10 [main] INFO  - Allure Report opened successfully
+

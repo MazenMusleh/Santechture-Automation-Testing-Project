@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM Suite" verbose="1" parallel="none" preserve-order="true">
+
+    <listeners>
+        <listener class-name="Utilization.TestListener"/>
+    </listeners>
+
+    <test name="Tests">
+        <classes>
+            <class name="GUI.UserManagementTest"/>
+            <class name="API.CandidateApiE2ETests"/>
+        </classes>
+    </test>
+</suite>
